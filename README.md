@@ -1,6 +1,6 @@
 # ImpossibleGame
 
-First group project at <Academia de Código>. Made with only 2 weeks of Java, this project had to be developed after classes and had a deadline of one week.
+First group project at <Academia de Código_>. Made with only 2 weeks of Java, this project had to be developed after classes and had a deadline of one week.
 
 
 # Main Concept
