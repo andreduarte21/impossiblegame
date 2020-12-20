@@ -4,7 +4,7 @@ First group project at <Academia de Código_>. Made with only 2 weeks of Java, t
 
 
 # Main Concept
-Platform game based on Escape Rooms.
+Game based on Escape Rooms.
 The aim of the game is to escape the room in which the game starts.
 The game provides some clues regarding the escape, so pay attention!
 Use the arrow keys to move around.
